@@ -1,0 +1,86 @@
+[
+    {
+        "tag": "h1",
+        "title": "Web scraping"
+    },
+    {
+        "tag": "h2",
+        "title": "Contents"
+    },
+    {
+        "tag": "h2",
+        "title": "History"
+    },
+    {
+        "tag": "h2",
+        "title": "Techniques"
+    },
+    {
+        "tag": "h2",
+        "title": "Legal issues"
+    },
+    {
+        "tag": "h2",
+        "title": "Methods to prevent web scraping"
+    },
+    {
+        "tag": "h2",
+        "title": "See also"
+    },
+    {
+        "tag": "h2",
+        "title": "References"
+    },
+    {
+        "tag": "h3",
+        "title": "Human copy-and-paste"
+    },
+    {
+        "tag": "h3",
+        "title": "Text pattern matching"
+    },
+    {
+        "tag": "h3",
+        "title": "HTTP programming"
+    },
+    {
+        "tag": "h3",
+        "title": "HTML parsing"
+    },
+    {
+        "tag": "h3",
+        "title": "DOM parsing"
+    },
+    {
+        "tag": "h3",
+        "title": "Vertical aggregation"
+    },
+    {
+        "tag": "h3",
+        "title": "Semantic annotation recognizing"
+    },
+    {
+        "tag": "h3",
+        "title": "Computer vision web-page analysis"
+    },
+    {
+        "tag": "h3",
+        "title": "AI-powered document understanding"
+    },
+    {
+        "tag": "h3",
+        "title": "United States"
+    },
+    {
+        "tag": "h3",
+        "title": "European Union"
+    },
+    {
+        "tag": "h3",
+        "title": "Australia"
+    },
+    {
+        "tag": "h3",
+        "title": "India"
+    }
+]
