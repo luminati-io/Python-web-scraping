@@ -1,5 +1,6 @@
-
 # Python Web Scraping Guide
+
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-scraper) 
 
 In this Python Web Scraping repository, you will find everything you need to get started with web scraping. We will explore how web scraping works, dive into various approaches in Python, and review complete examples at the end.
 
